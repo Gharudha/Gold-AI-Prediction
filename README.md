@@ -15,7 +15,7 @@
 
 **Gold AI Prediction** adalah aplikasi mobile yang menggunakan **Artificial Intelligence** untuk memprediksi harga Emas (XAUUSD) secara akurat. Proyek ini menggabungkan model machine learning (Python) dengan antarmuka mobile yang modern dan responsif.
 
-Dibangun dari Jakarta untuk trader, investor, dan analis pasar yang membutuhkan insight cepat dan akurat tentang pergerakan harga emas.
+Dibangun untuk trader, investor, dan analis pasar yang membutuhkan insight cepat dan akurat tentang pergerakan harga emas.
 
 ---
 
@@ -43,6 +43,14 @@ Dibangun dari Jakarta untuk trader, investor, dan analis pasar yang membutuhkan 
 - **Model Training & Evaluation** — Notebook Python untuk training ulang model
 - **Dark Mode** — Tampilan elegan dengan tema gelap (sesuai vibe proyek)
 - **Export Report** — Hasil prediksi dapat diekspor dalam format PDF/CSV
+
+---
+
+### 👁️‍🗨️UI
+
+Tampilan Dibagian Dashboard (main), halaman ini yang memberikan rekomendasi arah pasar gold kedepannya, biasanya 10 menit atau 15 menit kedepannya.
+
+<img width="330" height="650" alt="{1B4A7553-389F-4523-A9BB-B6755C7C3985}" src="https://github.com/user-attachments/assets/0894c290-0c51-46c0-b209-5c4dfce1d039" />
 
 ---
 
